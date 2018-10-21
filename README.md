@@ -1,5 +1,7 @@
 # Linguagem-C
 Algoritmos da disciplina de Linguagem de Programação.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 int main (){
@@ -31,3 +33,4 @@ int vetor [n];
 	}
 return 0;
 } 
+
